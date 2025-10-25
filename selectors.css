@@ -1,0 +1,55 @@
+.Two img{
+    height: 300px;
+    width: 700px;
+    text-align: center;
+    border: 10px;
+    border-color: white;
+    border-style: solid;
+    
+}
+.Two{
+    margin: 10px;
+    padding-top: 20px;
+    text-align: center;
+    font-size: 25px;
+    
+
+}
+
+.coffee img{
+    height: 300px;
+    width: 700px;
+    text-align: center; border: 10px;
+    border-color:black;
+    border-style: solid;
+
+}
+
+.coffee{
+    margin: 10px;
+    padding: 20px;
+    text-align: center;
+    font-size: 25px;
+    
+}
+
+#blackcoffee img{
+    height: 300px;
+    width: 700px;
+    text-align: center; border: 10px;
+    border-color: red;
+    border-style: solid;
+
+}
+
+
+#blackcoffee{
+   
+    margin: 10px;
+    padding: 20px;
+    text-align: center;
+    font-size: 25px;
+    
+
+
+}
