@@ -1,0 +1,42 @@
+*{
+    background-color:olive;
+    font-weight: bold;
+    color: chartreuse;
+}
+h1{
+    color: red;
+    background-color: white;
+    text-align: center;
+    display: inline;
+    padding: 5px;
+    border: 3px;
+    border-width: 2px;
+    border-style: solid;
+    margin: 10px;
+    border-color: black;
+}
+.container{
+    font-style:oblique;
+    font-size: medium;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    flex-basis: 33%;
+    margin: 10px;
+    padding: 10px;
+    flex-grow: 1;
+    justify-content: space-around;
+}
+.container img{
+    width: 400px;
+    height: 300px;
+    border-radius: 10px;
+    flex-basis: 30%;
+    margin: 5px;
+    border: 3px;
+    border-color: black;
+    border-style: dashed;
+}
+
+
+
